@@ -1,0 +1,9 @@
+# Ignorerer maven build
+trackcourse/core/target/
+trackcourse/fxui/target/
+target/
+
+.vscode 
+.settings 
+.classpath
+.project
